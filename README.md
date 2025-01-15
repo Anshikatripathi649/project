@@ -1,2 +1,2 @@
 # project
-author - anshika tripathi
+author - Anshika Tripathi
